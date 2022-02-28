@@ -1,30 +1,40 @@
 package com.company;
+import java.io.FilterOutputStream;
 import java.util.Arrays;
-// Prototype - de mindste dele
 
 public class Main {
 
-//en metode til at konvertere et enkelt bogstav om til et tal – altså så A er 1, B er 2, C er 3 og så videre.
-//en metode til at konvertere et enkelt tal om til et bogstav – så 1 bliver til A, 2 til B, 3 til C og så videre.
 
 
-    char[] bogstaver = {'0','A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X','Y', 'Z', 'Æ', 'Ø', 'Å' };
-    char[] bogstav2 = new char[29];
 
-    public void konvertereBogstavTilTal(){
 
-        for (int i = 0; i < bogstaver.length ; i++) {
-            System.out.println(i);
+    // modtage en char og returnere en int
+    public int bogstavTilNummer(char bogstaverChar) {
+
+        char[]  alfabet = {'0', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L',
+            'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'Æ', 'Ø', 'Å'};
+
+        int[] resultatInt = new int[alfabet.length];
+
+        int i;
+        for (i = 0; i < alfabet.length; i++) {
+            resultatInt[i] = resultatInt[i] - '0';
+            return i;
+        }
+        System.out.println(i);
+        return -1;
+    }
+
+        public static void main (String[]args){
+
+            Main obj = new Main();
+
+            char charLetter = 'A';
+
+            obj.bogstavTilNummer(charLetter);
+
 
         }
     }
 
-    public static void main(String[] args) {
 
-        Main obj = new Main();
-
-        obj.konvertereBogstavTilTal();
-
-
-    }
-}
