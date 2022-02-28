@@ -1,29 +1,35 @@
 package com.company;
-import java.io.FilterOutputStream;
-import java.util.Arrays;
 
 public class Main {
 
+    char[]  alfabet = {'0', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L',
+        'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'Æ', 'Ø', 'Å'};
 
 
-
-
-    // modtage en char og returnere en int
+    // modtage en char (bogstav) og returnere en int
     public int bogstavTilNummer(char bogstaverChar) {
-
-        char[]  alfabet = {'0', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L',
-            'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'Æ', 'Ø', 'Å'};
-
-        int[] resultatInt = new int[alfabet.length];
 
         int i;
         for (i = 0; i < alfabet.length; i++) {
-            resultatInt[i] = resultatInt[i] - '0';
+            int[] resultatInt = new int[alfabet.length];
+            i = resultatInt[i];
             return i;
         }
-        System.out.println(i);
         return -1;
     }
+
+    // modtage en int og returnere en char(bogstav)
+    public char talTilBogstav(int talInt){
+
+        int[] talværdier = new int [alfabet.length];
+        char c;
+        for (c = 'A' ; c < alfabet.length ; c++) {
+        c = alfabet[c];
+        }
+        return c;
+    }
+
+
 
         public static void main (String[]args){
 
@@ -33,6 +39,7 @@ public class Main {
 
             obj.bogstavTilNummer(charLetter);
 
+            obj.talTilBogstav(2);
 
         }
     }
