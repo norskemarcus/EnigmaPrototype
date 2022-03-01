@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T14:49:57.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="RYC9kxV1kMaVIVyaHI7K" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T14:53:49.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="59ssPK2pUwb6dZ0_AcPk" version="16.6.4" type="github">
   <diagram id="u-E06iYLW1rcGxBOSxDx" name="Page-1">
     <mxGraphModel dx="775" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,8 +63,8 @@
         <mxCell id="64NBfs3AgWb4ckrHT3pD-140" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-112">
           <mxGeometry x="160" y="90" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-126" value="bogstaver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-112">
-          <mxGeometry x="40" y="10" width="60" height="30" as="geometry" />
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-126" value="(char) bogstaver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-112">
+          <mxGeometry x="20" y="10" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-50" value="talværdi -= shiftværdi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-112">
           <mxGeometry x="75" y="140" width="130" height="25" as="geometry" />
@@ -131,8 +131,8 @@
         <mxCell id="64NBfs3AgWb4ckrHT3pD-138" value="intNummer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
           <mxGeometry x="200" y="84.99999999999997" width="60" height="29.999999999999993" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-111" value="bogstaver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
-          <mxGeometry x="40" y="9.999999999999996" width="60" height="29.999999999999993" as="geometry" />
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-111" value="(char) bogstaver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
+          <mxGeometry x="26" y="10" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-29" value="Find talværdi&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;bogstavTilNummer(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; color: rgb(0 , 0 , 128) ; font-weight: bold&quot;&gt;char &lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;bogstavChar)&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
           <mxGeometry x="21" y="40" width="260" height="50" as="geometry" />
@@ -316,6 +316,18 @@
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-134" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="1050" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-143" value="// modtage intput som String og konvertere det til char" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-144" value="switch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-145" value="Case 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-146" value="Case 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
