@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T18:25:22.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="xuFbmp-ktoP_zK9Qki0B" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T18:35:39.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="abkAY_XpEgV9cwQwbJOR" version="16.6.4" type="github">
   <diagram id="u-E06iYLW1rcGxBOSxDx" name="Page-1">
     <mxGraphModel dx="1326" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -380,6 +380,21 @@
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-128" value="" style="ellipse;fillColor=#000000;strokeColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="415" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-220" value="String cipherKrypteretText" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="900" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-221" value="//&amp;nbsp; konvertere char til String med&lt;br&gt;Character.toString();" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="930" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-222" value="String cipherDekrypteretText" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="900" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-223" value="//&amp;nbsp; konvertere char til String med&lt;br&gt;Character.toString();" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="930" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-224" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="860" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
