@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T20:06:07.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="kMNc-ae9Bt7JQAFSGjt5" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T20:19:57.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="wv4ZQEK1He5Acmh4FzDU" version="16.6.4" type="github">
   <diagram id="u-E06iYLW1rcGxBOSxDx" name="Page-1">
     <mxGraphModel dx="712" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -293,8 +293,10 @@
         <mxCell id="64NBfs3AgWb4ckrHT3pD-46" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;krypterEtTegnAdGangen&lt;/pre&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt; (konvertere String to char)&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="420" width="255" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-257" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=5;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-74" target="64NBfs3AgWb4ckrHT3pD-256">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-257" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=5;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="980" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-74" value="Print: krypteretTekst&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="950" width="140" height="60" as="geometry" />
@@ -307,14 +309,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-258" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=5;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-123" target="64NBfs3AgWb4ckrHT3pD-256">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-258" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=5;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="980" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-123" value="Print: dekrypteretTekst&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="950" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-132" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="1110" width="30" height="30" as="geometry" />
+          <mxGeometry x="502.5" y="1100" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-145" value="Case 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="185" width="60" height="30" as="geometry" />
@@ -399,11 +403,13 @@
         <mxCell id="64NBfs3AgWb4ckrHT3pD-252" value="String tekstInputString" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="247.5" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-259" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=5;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-256" target="64NBfs3AgWb4ckrHT3pD-132">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-256" value="Vil du kryptere eller dekryptere?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1020" width="140" height="60" as="geometry" />
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-259" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-272" target="64NBfs3AgWb4ckrHT3pD-132">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="1079.9999999999998" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="520" y="1060" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-264" value="String tekstInputString" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="410" width="140" height="10" as="geometry" />
@@ -419,6 +425,42 @@
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-271" value="af Marcus Holje" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-272" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-276" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=5;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-274" target="64NBfs3AgWb4ckrHT3pD-272">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-274" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="325" y="975" width="65" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-275" value="[afslutte]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1030" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-279" value="" style="endArrow=none;html=1;rounded=0;startSize=5;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-272">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1000" as="sourcePoint" />
+            <mxPoint x="40" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-280" value="" style="endArrow=none;html=1;rounded=0;startSize=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="140" as="sourcePoint" />
+            <mxPoint x="40" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-282" value="" style="endArrow=classic;html=1;rounded=0;startSize=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="140" as="sourcePoint" />
+            <mxPoint x="360" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-283" value="[kryptere/dekryptere]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1030" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-284" value="// nytProgram går direkte til Case 1 eller 2." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="23.75" y="110" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
