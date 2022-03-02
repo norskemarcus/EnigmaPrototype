@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T19:24:48.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="9uVohy4WbHcb2Ka9eiDw" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T20:06:07.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="kMNc-ae9Bt7JQAFSGjt5" version="16.6.4" type="github">
   <diagram id="u-E06iYLW1rcGxBOSxDx" name="Page-1">
-    <mxGraphModel dx="1168" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="712" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,13 +69,13 @@
         <mxCell id="64NBfs3AgWb4ckrHT3pD-50" value="&amp;nbsp;Trække shiftværdi fra tal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-112">
           <mxGeometry x="80" y="140" width="140" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-48" value="Find talværdi&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;bogstavTilNummer&lt;/span&gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-112">
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-48" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;bogstavTilNummer&lt;/span&gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-112">
           <mxGeometry x="20" y="40" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="64NBfs3AgWb4ckrHT3pD-112" source="64NBfs3AgWb4ckrHT3pD-48" target="64NBfs3AgWb4ckrHT3pD-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-52" value="Find bogstav for den nye talværdi&amp;nbsp;&lt;br&gt;(nyBogstav)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-112">
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-52" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;talTilBogstav&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-112">
           <mxGeometry x="90" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="64NBfs3AgWb4ckrHT3pD-112" source="64NBfs3AgWb4ckrHT3pD-50" target="64NBfs3AgWb4ckrHT3pD-52">
@@ -184,7 +184,7 @@
         <mxCell id="64NBfs3AgWb4ckrHT3pD-111" value="char bogstavChar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
           <mxGeometry x="26" y="10" width="104" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-29" value="Find talværdi&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;bogstavTilNummer&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-29" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;bogstavTilNummer&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
           <mxGeometry x="21" y="40" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-33" value="Lægge shiftværdi til tal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
@@ -193,7 +193,7 @@
         <mxCell id="64NBfs3AgWb4ckrHT3pD-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="64NBfs3AgWb4ckrHT3pD-97" source="64NBfs3AgWb4ckrHT3pD-29" target="64NBfs3AgWb4ckrHT3pD-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-35" value="Find bogstav for den nye talværdi&amp;nbsp;&lt;br&gt;(nyBogstav)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-35" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;talTilBogstav&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
           <mxGeometry x="91" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="64NBfs3AgWb4ckrHT3pD-97" source="64NBfs3AgWb4ckrHT3pD-33" target="64NBfs3AgWb4ckrHT3pD-35">
@@ -226,8 +226,8 @@
         <mxCell id="64NBfs3AgWb4ckrHT3pD-197" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
           <mxGeometry x="170" y="280" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-201" value="char bogstav" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
-          <mxGeometry x="170.75" y="270" width="99.25" height="30" as="geometry" />
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-201" value="char nybogstav" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
+          <mxGeometry x="180" y="270" width="99.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-203" value="char bogstav" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
           <mxGeometry x="170.75" y="300" width="99.25" height="30" as="geometry" />
@@ -272,7 +272,7 @@
         <mxCell id="64NBfs3AgWb4ckrHT3pD-30" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-26" target="64NBfs3AgWb4ckrHT3pD-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-26" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;For loop: finde én bogstav ad gangen&lt;br&gt;fra tekstInputString&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt; (konvertere String to char)&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-26" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;krypterEtTegnAdGangen&lt;/pre&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt; (konvertere String to char)&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="102.5" y="420" width="257.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -290,7 +290,7 @@
         <mxCell id="64NBfs3AgWb4ckrHT3pD-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-46" target="64NBfs3AgWb4ckrHT3pD-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-46" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;For loop: finde én bogstav ad gangen&lt;br&gt;fra tekstInputString &lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt; (konvertere String to char)&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-46" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;krypterEtTegnAdGangen&lt;/pre&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt; (konvertere String to char)&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="420" width="255" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-257" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=5;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-74" target="64NBfs3AgWb4ckrHT3pD-256">
