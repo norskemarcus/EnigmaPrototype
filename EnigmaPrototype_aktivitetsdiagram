@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T18:17:47.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="A6tyN2mgGuC4ktCs2xLL" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T19:00:47.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="V2JsuvEWqXViGoQtyzI4" version="16.6.4" type="github">
   <diagram id="u-E06iYLW1rcGxBOSxDx" name="Page-1">
-    <mxGraphModel dx="1166" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="792" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,16 +66,16 @@
         <mxCell id="64NBfs3AgWb4ckrHT3pD-126" value="char bogstavChar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-112">
           <mxGeometry x="20" y="10" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-50" value="talværdi -= shiftværdi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-112">
-          <mxGeometry x="85" y="140" width="130" height="25" as="geometry" />
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-50" value="&amp;nbsp;Trække shiftværdi fra tal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-112">
+          <mxGeometry x="80" y="140" width="140" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-48" value="Find bogstav&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;talTilBogstav(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; color: rgb(0 , 0 , 128) ; font-weight: bold&quot;&gt;int &lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;talInt)&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-112">
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-48" value="Find talværdi&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;bogstavTilNummer&lt;/span&gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-112">
           <mxGeometry x="20" y="40" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="64NBfs3AgWb4ckrHT3pD-112" source="64NBfs3AgWb4ckrHT3pD-48" target="64NBfs3AgWb4ckrHT3pD-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-52" value="Find bogstav for den nye talværdi&amp;nbsp;&lt;br&gt;(krypteret char)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-112">
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-52" value="Find bogstav for den nye talværdi&amp;nbsp;&lt;br&gt;(nyBogstav)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-112">
           <mxGeometry x="90" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="64NBfs3AgWb4ckrHT3pD-112" source="64NBfs3AgWb4ckrHT3pD-50" target="64NBfs3AgWb4ckrHT3pD-52">
@@ -182,16 +182,16 @@
         <mxCell id="64NBfs3AgWb4ckrHT3pD-111" value="char bogstavChar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
           <mxGeometry x="26" y="10" width="104" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-29" value="Find talværdi&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;bogstavTilNummer(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; color: rgb(0 , 0 , 128) ; font-weight: bold&quot;&gt;char &lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;bogstavChar)&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-29" value="Find talværdi&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;bogstavTilNummer&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
           <mxGeometry x="21" y="40" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-33" value="talværdi += shiftværdi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-33" value="Lægge shiftværdi til tal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
           <mxGeometry x="86" y="140" width="130" height="25" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="64NBfs3AgWb4ckrHT3pD-97" source="64NBfs3AgWb4ckrHT3pD-29" target="64NBfs3AgWb4ckrHT3pD-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-35" value="Find bogstav for den nye talværdi&amp;nbsp;&lt;br&gt;(krypteret char)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-35" value="Find bogstav for den nye talværdi&amp;nbsp;&lt;br&gt;(nyBogstav)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="64NBfs3AgWb4ckrHT3pD-97">
           <mxGeometry x="91" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="64NBfs3AgWb4ckrHT3pD-97" source="64NBfs3AgWb4ckrHT3pD-33" target="64NBfs3AgWb4ckrHT3pD-35">
@@ -242,55 +242,36 @@
         <mxCell id="64NBfs3AgWb4ckrHT3pD-2" value="print &quot;Velkommen til&amp;nbsp; krypterings/dekrypteringsnøglen&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="50" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="64NBfs3AgWb4ckrHT3pD-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425.0588235294117" y="170" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-12" target="64NBfs3AgWb4ckrHT3pD-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-12" value="print &quot;Vil du kryptere eller dekryptere?&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="190" width="120" height="40" as="geometry" />
+          <mxGeometry x="365" y="125" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="260" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-22">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="465" y="299.5" as="sourcePoint" />
-            <mxPoint x="540" y="299.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.407;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-149">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="300" as="sourcePoint" />
-            <mxPoint x="620" y="340" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="385" y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-20" value="[kryptere]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="200" width="55" height="30" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-22" value="[dekryptere]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="472.5" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-24" target="64NBfs3AgWb4ckrHT3pD-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="64NBfs3AgWb4ckrHT3pD-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="390" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-24" value="brugerKrypteretShiftværdi" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="135" y="340" width="190" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-25" target="64NBfs3AgWb4ckrHT3pD-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-25" value="brugerDekrypteretShiftværdi" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="340" width="195" height="50" as="geometry" />
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="64NBfs3AgWb4ckrHT3pD-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="622.5" y="390" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-30" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-26" target="64NBfs3AgWb4ckrHT3pD-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-26" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;For loop: finde én bogstav ad gangen&lt;br/&gt;fra brugerInputText&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="102.5" y="430" width="255" height="50" as="geometry" />
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-26" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;For loop: finde én bogstav ad gangen&lt;br&gt;fra tekstInputString&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt; (konvertere String to char)&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="420" width="257.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="250" y="390" width="10" height="10" as="geometry" />
@@ -307,14 +288,14 @@
         <mxCell id="64NBfs3AgWb4ckrHT3pD-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-46" target="64NBfs3AgWb4ckrHT3pD-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-46" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;For loop: finde én bogstav ad gangen&lt;br/&gt;fra brugerInputText&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="430" width="255" height="50" as="geometry" />
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-46" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;For loop: finde én bogstav ad gangen&lt;br&gt;fra tekstInputString &lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt; (konvertere String to char)&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="420" width="255" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=5;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-74" target="64NBfs3AgWb4ckrHT3pD-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-74" value="Print: cipherKrypteretText&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="950" width="120" height="60" as="geometry" />
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-74" value="Print: krypteretTekst&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="950" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=5;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-97" target="64NBfs3AgWb4ckrHT3pD-74">
           <mxGeometry relative="1" as="geometry">
@@ -327,7 +308,7 @@
         <mxCell id="64NBfs3AgWb4ckrHT3pD-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=5;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-123" target="64NBfs3AgWb4ckrHT3pD-134">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-123" value="Print: cipherDekrypteretText&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-123" value="Print: dekrypteretTekst&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="950" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-132" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
@@ -337,30 +318,27 @@
           <mxGeometry x="527.5" y="1050" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-145" value="Case 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="185" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-146" value="Case 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="460" y="185" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=5;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-147" target="64NBfs3AgWb4ckrHT3pD-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-147" value="print &quot;Indtast shiftværdi:&quot;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155" y="280" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-149" value="print &quot;Indtast shiftværdi:&quot;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="285" width="150" height="30" as="geometry" />
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="310" as="sourcePoint" />
+            <mxPoint x="230.0000000000001" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-152" value="" style="endArrow=classic;html=1;rounded=0;startSize=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="300" as="sourcePoint" />
-            <mxPoint x="560" y="300" as="targetPoint" />
+            <mxPoint x="540" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-154" value="" style="endArrow=classic;html=1;rounded=0;startSize=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="385" y="300" as="sourcePoint" />
-            <mxPoint x="315" y="300" as="targetPoint" />
+            <mxPoint x="385" y="229.41" as="sourcePoint" />
+            <mxPoint x="310" y="229" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-157" value="&lt;h1&gt;EnigmaPrototype&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
@@ -374,23 +352,56 @@
         <mxCell id="64NBfs3AgWb4ckrHT3pD-128" value="" style="ellipse;fillColor=#000000;strokeColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="415" y="10" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-220" value="String cipherKrypteretText" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-220" value="String krypteretTekst" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="900" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-221" value="//&amp;nbsp; konvertere char til String med&lt;br&gt;Character.toString();" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="192.5" y="930" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-222" value="String cipherDekrypteretText" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-222" value="String dekrypteretTekst" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="900" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-223" value="//&amp;nbsp; konvertere char til String med&lt;br&gt;Character.toString();" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="930" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="64NBfs3AgWb4ckrHT3pD-224" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="860" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64NBfs3AgWb4ckrHT3pD-227" value="&lt;span&gt;brugerInputText&lt;/span&gt;" style="html=1;shape=mxgraph.sysml.accEvent;strokeWidth=2;whiteSpace=wrap;align=center;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="117.5" width="147.5" height="55" as="geometry" />
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-237" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=5;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-227" target="64NBfs3AgWb4ckrHT3pD-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-227" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;tekstInputString&lt;/pre&gt;" style="html=1;shape=mxgraph.sysml.accEvent;strokeWidth=2;whiteSpace=wrap;align=center;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="156.25" y="200" width="147.5" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-228" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;shiftVærdi &lt;/pre&gt;" style="html=1;shape=mxgraph.sysml.accEvent;strokeWidth=2;whiteSpace=wrap;align=center;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-230" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;print &quot;Indtast shiftværdi:&quot;&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="280" width="165" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-233" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;print &quot;Indtast shiftværdi:&quot;&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="280" width="165" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-244" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=5;" edge="1" parent="1" source="64NBfs3AgWb4ckrHT3pD-236" target="64NBfs3AgWb4ckrHT3pD-233">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-236" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;tekstInputString&lt;/pre&gt;" style="html=1;shape=mxgraph.sysml.accEvent;strokeWidth=2;whiteSpace=wrap;align=center;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="541.25" y="200" width="147.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-246" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="614.41" y="315" as="sourcePoint" />
+            <mxPoint x="614" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-248" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;shiftVærdi &lt;/pre&gt;" style="html=1;shape=mxgraph.sysml.accEvent;strokeWidth=2;whiteSpace=wrap;align=center;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="538.75" y="340" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-249" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="237.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-250" value="String tekstInputString" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="247.5" width="140" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-251" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="64NBfs3AgWb4ckrHT3pD-252" value="String tekstInputString" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="247.5" width="140" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
